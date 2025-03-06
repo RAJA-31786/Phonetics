@@ -1,0 +1,1 @@
+wild:w(bilabial, approximant, voiced) i(close, vowel, voiced) l d(alveolar, stop, voiced):w(bilabial, approximant, voiced) i(close, vowel, voiced) l d(alveolar, stop, voiced)
